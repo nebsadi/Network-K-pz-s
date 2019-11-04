@@ -8,7 +8,7 @@
 <p><strong>Célcsoport</strong>: Nem hálózatüzemeltetéssel foglalkozó, ügyféltámogató kollégák<br>
 <strong>Cél</strong>: Az óra végére a résztvevők kapnak egy komplexebb szemléletet,<br>
 amely segítségével pontosabban tudnak igényeket megfogalmazni,<br>
-hatékonyabban derítenek fel hibákat, és job rálátásuk lesz a  hálózat<br>
+hatékonyabban derítenek fel hibákat, és jobb rálátásuk lesz a  hálózat<br>
 nem általuk  kezelt részén végbemenő folyamatokba.</p>
 </blockquote>
 <p>Az óra szerkezete alkalmas egy rövidebb (max 2 óra) frontális képzésre, opcionálisan rövid szünettel, de jobban működik, ha a jelenlévők akítvan részt vesznek a tudásanyag összeállításában, saját példákkal erősítik meg, amit hallanak. Ezért egy igényfelmérő beszélgetéssel nyitható a képzés, és zárható annak összeszedésével, hogy mi maradt megválaszolatlan.</p>
@@ -25,7 +25,7 @@ nem általuk  kezelt részén végbemenő folyamatokba.</p>
 <li>Mifene az az IP cím?</li>
 <li>IP-Maszk-Gateway</li>
 <li>Privát vs Publikus IP<br>
-<em>cél: Tudjuk, milyen címet adunk épp, és Vegyük észre, ha nem kapott az IP.</em><br>
+<em>cél: Tudjuk, milyen címet adunk épp, és vegyük észre, ha nem dhcp-ről kapott az IP.</em><br>
 Felmerült problémák: VLAN felismerése, Nyomtató Publikus címen, más L3 alól élő hálózat kérése</li>
 </ul>
 <h2 id="router-vs-switch">Router vs Switch</h2>
